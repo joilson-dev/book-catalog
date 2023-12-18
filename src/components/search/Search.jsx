@@ -1,18 +1,16 @@
-import {
-  StyledSearch,
-  StyledTrailingIcon,
-  Styledcontent,
-} from "./SearchStyled";
+import { StyledSearch, StyledTrailingIcon, StyledInput } from "./SearchStyled";
+import SearchIcon from "../../../public/icon/search-Icon.svg";
 
 function Search() {
   return (
     <>
       <StyledSearch>
-        <Styledcontent
+        <StyledInput
           type="search"
           placeholder="Pesquise seu livro"
-        ></Styledcontent>
-        <StyledTrailingIcon></StyledTrailingIcon>
+        ></StyledInput>
+
+        <StyledTrailingIcon src={SearchIcon}></StyledTrailingIcon>
       </StyledSearch>
     </>
   );
