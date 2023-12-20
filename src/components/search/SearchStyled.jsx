@@ -2,35 +2,29 @@ import styled from "styled-components";
 
 const StyledSearch = styled.div`
   position: relative;
-  display: flex;
   height: 3.5rem;
-  max-width: 45rem;
+  max-width: 720px;
+  margin: 2.32rem auto 2.32rem auto;
+  display: flex;
   justify-content: center;
   align-items: center;
-  margin: 2.32rem auto 2.32rem auto;
-
   border-radius: 1.75rem;
   background: #ece6f0;
-
   padding: 0.25rem;
-  align-items: center;
-  flex: 1 0 0;
   align-self: stretch;
 `;
 
 const StyledInput = styled.input`
-  display: grid;
-  grid-template-columns: 1fr;
-  justify-content: start;
-  align-items: center;
+  display: flex;
   border-radius: 1.75rem;
   background-color: #ece6f0;
   border: none;
   outline: none;
   text-align: center;
-  width: 40.875rem;
+  width: 90%;
   gap: 0.625rem;
-  align-self: stretch;
+  height: 3rem;
+  font-size: 1.5rem;
 
   &::-webkit-search-clear-button {
     -webkit-appearance: none;

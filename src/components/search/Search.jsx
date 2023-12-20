@@ -9,7 +9,6 @@ function Search() {
           type="search"
           placeholder="Pesquise seu livro"
         ></StyledInput>
-
         <StyledTrailingIcon src={SearchIcon}></StyledTrailingIcon>
       </StyledSearch>
     </>
