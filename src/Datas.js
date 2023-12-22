@@ -1,4 +1,4 @@
-export const book = [
+export const books = [
   {
     id: 1,
     title: "O Código Da Vinci",

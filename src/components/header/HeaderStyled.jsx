@@ -4,7 +4,6 @@ const StyledHeader = styled.header`
   display: grid;
   background: #e6e0e9;
   width: 100%;
-  z-index: 1000;
   height: 13rem;
   align-items: center;
 `;
