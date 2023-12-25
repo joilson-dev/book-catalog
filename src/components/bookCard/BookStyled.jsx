@@ -5,19 +5,18 @@ const CardContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  flex: 1 0 0;
   align-self: stretch;
+  justify-content: center;
   border-radius: 0.75rem;
+  width: 340px;
+  background: #f7f2fa;
 `;
 
 const Image = styled.img`
   display: flex;
   justify-content: center;
   align-items: center;
-  flex: 1 0 0;
-  align-self: stretch;
-  width: 22.5rem;
-  height: 16.25rem;
+  height: 360px;
 `;
 
 const Info = styled.div`
@@ -25,14 +24,19 @@ const Info = styled.div`
 `;
 
 const Title = styled.h2`
+  display: flex;
+  flex: 1;
   color: #1d1b20;
   text-align: center;
+  align-items: stretch;
+
+  width: 185px;
 
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 24px; /* 150% */
+  line-height: 24px;
   letter-spacing: 0.15px;
 `;
 

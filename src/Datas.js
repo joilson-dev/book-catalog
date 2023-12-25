@@ -117,14 +117,6 @@ export const books = [
     availability: false,
   },
   {
-    id: 21,
-    title: "A Ilíada",
-    author: "Homero",
-    coverImage: "./public/imagem/21.jpg",
-    description: "A narrativa épica da Guerra de Troia e o herói Aquiles.",
-    availability: true,
-  },
-  {
     id: 22,
     title: "O Nome do Vento",
     author: "Patrick Rothfuss",
