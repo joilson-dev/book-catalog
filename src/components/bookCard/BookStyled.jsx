@@ -5,8 +5,7 @@ const CardContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  align-self: stretch;
-  justify-content: center;
+
   border-radius: 0.75rem;
   width: 340px;
   background: #f7f2fa;
@@ -21,6 +20,7 @@ const Image = styled.img`
 
 const Info = styled.div`
   padding: 16px;
+  align-items: center; /* Ajuste conforme necessário */
 `;
 
 const Title = styled.h2`
@@ -29,8 +29,6 @@ const Title = styled.h2`
   color: #1d1b20;
   text-align: center;
   align-items: stretch;
-
-  width: 185px;
 
   font-family: Roboto;
   font-size: 16px;
