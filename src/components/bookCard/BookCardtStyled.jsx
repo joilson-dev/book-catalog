@@ -5,7 +5,7 @@ const BookContainer = styled.div`
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
-  max-width: 1060px;
+  max-width: 1200px;
   margin: 20px auto;
 `;
 

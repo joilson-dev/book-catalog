@@ -27,6 +27,7 @@ const Info = styled.div`
   display: flex;
   flex-direction: column;
   text-align: left;
+  margin: 16px;
 `;
 
 const Title = styled.h2`
@@ -36,7 +37,7 @@ const Title = styled.h2`
   align-items: stretch;
   font-family: Roboto;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 24px;
   letter-spacing: 0.15px;
 `;
@@ -44,7 +45,7 @@ const Title = styled.h2`
 const Autor = styled.p`
   font-family: Roboto;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 24px;
   letter-spacing: 0.5px;
   margin: 0;
