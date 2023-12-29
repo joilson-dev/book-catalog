@@ -1,5 +1,5 @@
 import { StyledSearch, StyledTrailingIcon, StyledInput } from "./SearchStyled";
-import SearchIcon from "../../../public/icon/search-Icon.svg";
+import SearchIcon from "/icon/search-Icon.svg";
 
 import PropTypes from "prop-types";
 
