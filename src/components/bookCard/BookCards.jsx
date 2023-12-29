@@ -1,8 +1,9 @@
 import { BookContainer } from "./BookCardtStyled";
-import { books } from "./Datas";
-import Book from "/Book";
-
+import Book from "./Book";
 import PropTypes from "prop-types";
+
+import { books } from "../../Datas.js";
+1;
 
 function BookCards({ searchTerm }) {
   const filteredBooks = books.filter((thebook) =>
