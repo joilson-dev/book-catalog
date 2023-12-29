@@ -1,5 +1,5 @@
 import { BookContainer } from "./BookCardtStyled";
-import { books } from "./datas";
+import { books } from "./Datas";
 import Book from "/Book";
 
 import PropTypes from "prop-types";
