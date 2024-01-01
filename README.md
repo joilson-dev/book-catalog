@@ -4,9 +4,17 @@ Catálogo De Livros Online Em React 📚
 <img  alt="cover-alt"  src="https://raw.githubusercontent.com/joilson-dev/joilson-dev.github.io/main/projetoPrint/book-catalog.png" />
 </h1>
 
-Explore e descubra uma variedade de livros em nosso catálogo online desenvolvido em React. Este projeto utiliza dados mockados para simular uma experiência de navegação realista.
+## Descrição do Projeto
 
-## 🧪 Tecnologias
+<p align="justify"> Explore e descubra uma variedade de livros em nosso catálogo online desenvolvido em React. Este projeto utiliza dados mockados para simular uma experiência de navegação realista. </p>
+
+> Status do Projeto: Concluido :tw-2705:
+
+## Deploy da Aplicação com Vercel: 🚀
+
+> https://book-catalog-cyan-one.vercel.app/
+
+## Tecnologias🧪
 
 O projeto foi desenvolvido usando as seguintes tecnologias:
 
