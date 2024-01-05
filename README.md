@@ -8,7 +8,7 @@ Catálogo De Livros Online Em React 📚
 
 <p align="justify"> Explore e descubra uma variedade de livros em nosso catálogo online desenvolvido em React. Este projeto utiliza dados mockados para simular uma experiência de navegação realista. </p>
 
-> Status do Projeto: Concluido :tw-2705:
+> Status do Projeto: Concluido ✅
 
 ## Deploy da Aplicação com Vercel: 🚀
 
